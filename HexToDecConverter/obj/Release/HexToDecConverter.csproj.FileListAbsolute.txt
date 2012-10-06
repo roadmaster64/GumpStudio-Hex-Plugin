@@ -1,0 +1,31 @@
+C:\Documents and Settings\System Operator\My Documents\Visual Studio 2008\Projects\HexToDecConverter\HexToDecConverter\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\System Operator\My Documents\Visual Studio 2008\Projects\HexToDecConverter\HexToDecConverter\obj\Release\ConversionUtility.ConversionForm.resources
+C:\Documents and Settings\System Operator\My Documents\Visual Studio 2008\Projects\HexToDecConverter\HexToDecConverter\obj\Release\HexToDecConverter.csproj.GenerateResource.Cache
+C:\Documents and Settings\System Operator\My Documents\Visual Studio 2008\Projects\HexToDecConverter\HexToDecConverter\obj\Release\ConversionUtility.pdb
+C:\Documents and Settings\System Operator\My Documents\Visual Studio 2008\Projects\HexToDecConverter\HexToDecConverter\obj\Release\ConversionUtility.Properties.Resources.resources
+C:\Documents and Settings\System Operator\My Documents\Visual Studio 2008\Projects\HexToDecConverter\HexToDecConverter\obj\Release\ConversionUtility.dll
+C:\Documents and Settings\System Operator\My Documents\Visual Studio 2008\Projects\HexToDecConverter\HexToDecConverter\obj\Release\ConversionUtility.WaitFormLoading.resources
+C:\Documents and Settings\System Operator\My Documents\Visual Studio 2008\Projects\HexToDecConverter\HexToDecConverter\obj\Release\ConversionUtility.AboutBox1.resources
+D:\GumpStudio Dlls\GumpStudio\Plugins\ConversionUtility.dll
+D:\GumpStudio Dlls\GumpStudio\Plugins\ConversionUtility.pdb
+C:\Users\roadmaster\Documents\Visual Studio 2010\Projects\Gump Designer\rhodes_Hex2Dex\HexToDecConverter\obj\Release\ResolveAssemblyReference.cache
+C:\Users\roadmaster\Documents\Visual Studio 2010\Projects\Gump Designer\rhodes_Hex2Dex\HexToDecConverter\obj\Release\ConversionUtility.AboutBox1.resources
+C:\Users\roadmaster\Documents\Visual Studio 2010\Projects\Gump Designer\rhodes_Hex2Dex\HexToDecConverter\obj\Release\ConversionUtility.ConversionForm.resources
+C:\Users\roadmaster\Documents\Visual Studio 2010\Projects\Gump Designer\rhodes_Hex2Dex\HexToDecConverter\obj\Release\ConversionUtility.WaitFormLoading.resources
+C:\Users\roadmaster\Documents\Visual Studio 2010\Projects\Gump Designer\rhodes_Hex2Dex\HexToDecConverter\obj\Release\ConversionUtility.Properties.Resources.resources
+C:\Users\roadmaster\Documents\Visual Studio 2010\Projects\Gump Designer\rhodes_Hex2Dex\HexToDecConverter\obj\Release\ResGen.read.1.tlog
+C:\Users\roadmaster\Documents\Visual Studio 2010\Projects\Gump Designer\rhodes_Hex2Dex\HexToDecConverter\obj\Release\ResGen.write.1.tlog
+C:\Users\roadmaster\Documents\Visual Studio 2010\Projects\Gump Designer\rhodes_Hex2Dex\HexToDecConverter\obj\Release\ConversionUtility.dll
+C:\Users\roadmaster\Documents\Visual Studio 2010\Projects\Gump Designer\rhodes_Hex2Dex\HexToDecConverter\obj\Release\ConversionUtility.pdb
+C:\Users\roadmaster\Documents\Visual Studio 2010\Projects\Gump Designer\rhodes_Hex2Dex\HexToDecConverter\bin\ConversionUtility.dll
+C:\Users\roadmaster\Documents\Visual Studio 2010\Projects\Gump Designer\rhodes_Hex2Dex\HexToDecConverter\bin\ConversionUtility.pdb
+C:\Users\roadmaster\Documents\Visual Studio 2010\Projects\Gump Designer\rhodes_Hex2Dex\HexToDecConverter\bin\GumpStudioCore.dll
+C:\Users\roadmaster\Documents\Visual Studio 2010\Projects\Gump Designer\rhodes_Hex2Dex\HexToDecConverter\bin\Ultima.dll
+C:\Users\roadmaster\Documents\Visual Studio 2010\Projects\Gump Designer\rhodes_Hex2Dex\HexToDecConverter\bin\UOFont.dll
+C:\Users\roadmaster\Documents\Visual Studio 2010\Projects\Gump Designer\rhodes_Hex2Dex\HexToDecConverter\bin\GumpStudioCore.xml
+C:\Users\roadmaster\Documents\Visual Studio 2010\Projects\Gump Designer\rhodes_Hex2Dex\HexToDecConverter\bin\Release\ConversionUtility.dll
+C:\Users\roadmaster\Documents\Visual Studio 2010\Projects\Gump Designer\rhodes_Hex2Dex\HexToDecConverter\bin\Release\ConversionUtility.pdb
+C:\Users\roadmaster\Documents\Visual Studio 2010\Projects\Gump Designer\rhodes_Hex2Dex\HexToDecConverter\bin\Release\GumpStudioCore.dll
+C:\Users\roadmaster\Documents\Visual Studio 2010\Projects\Gump Designer\rhodes_Hex2Dex\HexToDecConverter\bin\Release\Ultima.dll
+C:\Users\roadmaster\Documents\Visual Studio 2010\Projects\Gump Designer\rhodes_Hex2Dex\HexToDecConverter\bin\Release\UOFont.dll
+C:\Users\roadmaster\Documents\Visual Studio 2010\Projects\Gump Designer\rhodes_Hex2Dex\HexToDecConverter\bin\Release\GumpStudioCore.xml

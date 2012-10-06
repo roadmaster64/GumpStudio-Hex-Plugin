@@ -1,0 +1,72 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+	<head>
+	<style type="text/css">span.black {color: Black}</style>
+    <style type="text/css">span.blue {color: Blue}</style>
+    <style type="text/css">span.lime {color: Lime}</style>
+    <style type="text/css">span.liteblue {color: #0066ff}</style>
+    <style type="text/css">span.larger {font-size:larger}</style>
+    <style type="text/css">span.small {font-size:small}</style>
+		<title>Conversion_Utility Documentation - Class Overview</title>
+	</head>
+	<body bgcolor="white" style="font-family: Courier New" text="#000000" link="#000000" vlink="#000000" alink="#808080">
+	  
+	  <h2 style="color:Black">ConversionUtility_Plugin <span class="small">(class overview)</span></h2>
+	  
+	  <!-- Comments <span class="small"><span class="black"> -->   
+	  
+	  <span class="black">protected</span> <span class="blue"><b>DesignerForm</b></span> <b>designer</b>
+	  
+	  <img src="D:\AddReference_Window.bmp"/>
+
+	  
+	  <h4 style="color:Black">protected <a href="DesignerForm.htm" target="_blank"><span class="blue">DesignerForm</span></a> designer</h4>
+	  <h4 style="color:Blue">DesignerForm <span class="black">designer</span></h4>
+	  
+	  <!--<h4 style="color:#0066ff">protected <textarea style="color:Blue">DesignerForm</textarea> designer</h4>-->
+	  <a style="color:#0066ff">protected</a> <a style="color:Blue">ConversionForm</a> conversionForm<br />
+	  <a style="color:#0066ff">protected</a> <a style="color:Blue">MenuItem</a> m_MenuConverter<br />
+	  <a style="color:#0066ff">protected</a> <a style="color:Blue">MenuItem</a> m_UtilityMenu<br />
+	  <a style="color:#0066ff">private</a> <a style="color:Blue">PluginInfo</a> info<br />
+	  <a style="color:#0066ff">private</a> <a style="color:Blue">string</a> stringvalue<br />
+	  <a style="color:#0066ff">private</a> <a style="color:Blue">int</a> toInt<br />
+	  <a style="color:#0066ff">private</a> <a style="color:Blue">string</a> toHex<br />
+
+        <h4 style="color:#0066ff">private</h4> <h4 style="color:Blue">const</h4> <h4 style="color:Blue">string</h4>  HexChars = "0123456789ABCDEF";<br />
+        
+      <!--<font color="#0066ff">private</font> (<font color="blue">const</font>) <font color="blue">string</font> HexChars = "0123456789ABCDEF";<br />
+	  <font color="#0066ff">private</font> (<font color="blue">const</font>) <font color="blue">string</font> hexPrefix = "0x";<br />
+      <font color="#0066ff">private</font> (<font color="blue">const</font>) <font color="blue">string</font> intChars = "0123456789";<br />
+      -->
+	  <font color="#0066ff">private</font> <font color="blue">bool</font> error<br />
+      <font color="#0066ff">private</font> <font color="blue">int</font> InvalidHex<br />
+	  <font color="#0066ff">private</font> <font color="blue">int</font> NotInteger<br /><br />
+	  
+      <font color="green">region</font> <font color="black">[ (bool) NullString() null string check ]</font><br />
+	  <font color="#0066ff">private</font> <font color="blue">bool</font> NullString()<br /><br />
+	  
+	  <font color="green">region</font> <font color="black">[ (bool) Check text value ]</font><br />
+	  <font color="#0066ff">public</font> <font color="blue">bool</font> CheckValue( <font color="blue">string</font> text, <font color="blue">out</font> <font color="blue">string</font> cha)<br /><br />
+	  
+	  <font color="green">region</font> <font color="black">[ Hexidecimal to Integer Conversion Methods ]</font><br />
+      <font color="#0066ff">public</font> <font color="blue">void</font> Index0( <font color="blue">ConversionForm</font> form )<br />
+      <font color="#0066ff">private</font> <font color="blue">void</font> HexToIntConversion()<br />
+      <font color="#0066ff">private</font> <font color="blue">int</font> ValidHex(<font color="blue">string</font> hexString)<br />
+      <font color="#0066ff">private</font> <font color="blue">int</font> HexToInt(<font color="blue">string</font> hexString)<br /><br />
+      
+      <font color="green">region</font> <font color="black">[ Integer to Hexidecimal Conversion Methods ]</font><br />
+      <font color="#0066ff">public</font> <font color="blue">void</font> Index1(<font color="blue">ConversionForm</font> form)<br />
+      <font color="#0066ff">private</font> <font color="blue">void</font> IntToHexConversion()<br />
+      <font color="#0066ff">private</font> <font color="blue">string</font> IntToHex(<font color="blue">string</font> intValue)<br /><br />
+      
+      <font color="green">region</font> <font color="black">[ Core Fuctions ]</font><br />
+      <font color="#0066ff">public</font> <font color="blue">void</font> StartConverter( <font color="blue">object</font> sender, <font color="blue">EventArgs</font> e)<br />
+      <font color="#0066ff">private</font> <font color="blue">string</font> ParseVersion()<br /><br />
+      
+      <font color="green">region</font> <font color="black">[ GumpStudio Overrides ]</font><br />
+      <font color="#0066ff">public</font> <font color="teal">override</font> <font color="blue">string</font> Name( <font color="blue">get</font>; )<br />
+      <font color="#0066ff">public</font> <font color="teal">override</font> <font color="blue">void</font> Load(<font color="blue">DesignerForm</font> frmDesigner)<br />
+      <font color="#0066ff">public</font> <font color="teal">override</font> <font color="blue">PluginInfo</font> GetPluginInfo()<br /><br />
+	<!-- </span></span> -->
+	</body>
+</html>

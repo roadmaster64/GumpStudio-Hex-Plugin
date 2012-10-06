@@ -1,0 +1,29 @@
+C:\Documents and Settings\System Operator\My Documents\Visual Studio 2008\Projects\HexToDecConverter\HexToDecConverter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\System Operator\My Documents\Visual Studio 2008\Projects\HexToDecConverter\HexToDecConverter\obj\Debug\HexToDecConverter.HexConverterForm.resources
+C:\Documents and Settings\System Operator\My Documents\Visual Studio 2008\Projects\HexToDecConverter\HexToDecConverter\obj\Debug\HexToDecConverter.csproj.GenerateResource.Cache
+C:\Documents and Settings\System Operator\My Documents\Visual Studio 2008\Projects\HexToDecConverter\HexToDecConverter\bin\Debug\HexToDecConverter.dll
+C:\Documents and Settings\System Operator\My Documents\Visual Studio 2008\Projects\HexToDecConverter\HexToDecConverter\bin\Debug\HexToDecConverter.pdb
+C:\Documents and Settings\System Operator\My Documents\Visual Studio 2008\Projects\HexToDecConverter\HexToDecConverter\obj\Debug\HexToDecConverter.pdb
+C:\Documents and Settings\System Operator\My Documents\Visual Studio 2008\Projects\HexToDecConverter\HexToDecConverter\bin\Debug\GumpStudioCore.dll
+C:\Documents and Settings\System Operator\My Documents\Visual Studio 2008\Projects\HexToDecConverter\HexToDecConverter\bin\Debug\UOFont.dll
+C:\Documents and Settings\System Operator\My Documents\Visual Studio 2008\Projects\HexToDecConverter\HexToDecConverter\bin\Debug\GumpStudioCore.pdb
+C:\Documents and Settings\System Operator\My Documents\Visual Studio 2008\Projects\HexToDecConverter\HexToDecConverter\bin\Debug\GumpStudioCore.xml
+C:\Documents and Settings\System Operator\My Documents\Visual Studio 2008\Projects\HexToDecConverter\HexToDecConverter\obj\Debug\HexToDecConverter.exe
+C:\Documents and Settings\System Operator\My Documents\Visual Studio 2008\Projects\HexToDecConverter\HexToDecConverter\obj\Debug\ConversionUtility.ConversionForm.resources
+D:\GumpStudio Dlls\GumpStudio\Plugins\ConversionUtility.dll
+D:\GumpStudio Dlls\GumpStudio\Plugins\ConversionUtility.pdb
+C:\Users\roadmaster\Documents\Visual Studio 2010\Projects\Gump Designer\GumoDesignerHost\bin\Plugins\ConversionUtility.dll
+C:\Users\roadmaster\Documents\Visual Studio 2010\Projects\Gump Designer\GumoDesignerHost\bin\Plugins\ConversionUtility.pdb
+C:\Users\roadmaster\Documents\Visual Studio 2010\Projects\Gump Designer\bin\Debug\ConversionUtility.dll
+C:\Users\roadmaster\Documents\Visual Studio 2010\Projects\Gump Designer\bin\Debug\ConversionUtility.pdb
+C:\Users\roadmaster\Documents\Visual Studio 2010\Projects\Gump Designer\rhodes_Hex2Dex\HexToDecConverter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\roadmaster\Documents\Visual Studio 2010\Projects\Gump Designer\rhodes_Hex2Dex\HexToDecConverter\obj\Debug\ConversionUtility.AboutBox1.resources
+C:\Users\roadmaster\Documents\Visual Studio 2010\Projects\Gump Designer\rhodes_Hex2Dex\HexToDecConverter\obj\Debug\ConversionUtility.ConversionForm.resources
+C:\Users\roadmaster\Documents\Visual Studio 2010\Projects\Gump Designer\rhodes_Hex2Dex\HexToDecConverter\obj\Debug\ConversionUtility.WaitFormLoading.resources
+C:\Users\roadmaster\Documents\Visual Studio 2010\Projects\Gump Designer\rhodes_Hex2Dex\HexToDecConverter\obj\Debug\ConversionUtility.Properties.Resources.resources
+C:\Users\roadmaster\Documents\Visual Studio 2010\Projects\Gump Designer\rhodes_Hex2Dex\HexToDecConverter\obj\Debug\ResGen.read.1.tlog
+C:\Users\roadmaster\Documents\Visual Studio 2010\Projects\Gump Designer\rhodes_Hex2Dex\HexToDecConverter\obj\Debug\ResGen.write.1.tlog
+C:\Users\roadmaster\Documents\Visual Studio 2010\Projects\Gump Designer\rhodes_Hex2Dex\HexToDecConverter\obj\Debug\ConversionUtility.dll
+C:\Users\roadmaster\Documents\Visual Studio 2010\Projects\Gump Designer\rhodes_Hex2Dex\HexToDecConverter\obj\Debug\ConversionUtility.pdb
+C:\Users\roadmaster\Documents\Visual Studio 2010\Projects\Gump Designer\bin\Debug\Plugins\ConversionUtility.dll
+C:\Users\roadmaster\Documents\Visual Studio 2010\Projects\Gump Designer\bin\Debug\Plugins\ConversionUtility.pdb
